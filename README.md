@@ -1,2 +1,2 @@
-# portfoliowebsite
-https://github.com/ChandniBabu/portfoliowebsite.git
+# portfoliowebsite 
+https://chandnibabu.github.io/portfoliowebsite/
